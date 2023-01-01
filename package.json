@@ -1,0 +1,25 @@
+{
+  "name": "fast-port-scanner",
+  "version": "1.0.0",
+  "description": "Fast Port Scanner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scanner",
+    "port",
+    "fast",
+    "fast-port-scanner",
+    "fast-port",
+    "can",
+    "fastuptime"
+  ],
+  "author": "Can & FastUptime",
+  "repository": "fastuptime/Fast_Port_Scanner",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
