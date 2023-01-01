@@ -1,6 +1,11 @@
 # Fast_Port_Scanner
 ---
 
+```
+const fastScanner = require('fast-port-scanner');
+
+fastScanner('fastuptime.com', 80, 1000).then(console.log).catch(console.log);
+```
 
 # Resimler
 ![image](https://user-images.githubusercontent.com/63351166/210177969-6167dd36-29c7-4dc9-a866-a646d3160852.png)
